@@ -1,5 +1,5 @@
 # ClientologyDesktopApp
-Desktop app for client base with personal cards for each client.
+Desktop app in Python language for client base with personal cards for each client.
 Utilizes PySide library for GUI development.
 Utilizes sqlite3 for Database.
 
